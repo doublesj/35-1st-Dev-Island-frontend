@@ -1,5 +1,4 @@
 
-
 # PROJECT : We&Olufsen
 
 ### • 프로젝트 소개
@@ -78,7 +77,8 @@ fetch함수 method 'PATCH'를 사용해 body에 order_id: item.id 상품 아이�
 ```  
     
       
-          
+
+### ▶︎ [프로젝트 회고 보러가기](https://blog.naver.com/nodame3806/222834807641) 
 
 ### • 참고
 >이 프로젝트는 Bang & Olufsen 사이트를 참조하여 학습 목적으로 만들었습니다.  
