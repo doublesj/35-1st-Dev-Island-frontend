@@ -2,7 +2,7 @@
 # PROJECT : We&Olufsen
 
 ### • 프로젝트 소개
->**Bang & Olufsen 클론 코딩**  
+>**Bang & Olufsen 웹사이트를 모티브로한 브랜드 웹사이트**  
 https://www.bang-olufsen.com/ko/kr  
 아이코닉 명품 오디오 브랜드 Bang & Olufsen가 가진 고급스러운 느낌을 담은 웹사이트  
 회원가입, 로그인, 장바구니, 결제 등	커머스 사이트의 기본적인 FLOW 기능 구현
